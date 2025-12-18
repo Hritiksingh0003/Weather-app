@@ -12,7 +12,7 @@ Built using **HTML, CSS, and Vanilla JavaScript**, the app integrates the **Weat
 ---
 
 ## 🌍 Live Demo
-👉 [View Live Project](https://your-deployed-link.com)
+👉 [View Live Project]([https://your-deployed-link.com](http://127.0.0.1:5500/index.html))
 
 ---
 
